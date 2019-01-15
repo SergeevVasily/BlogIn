@@ -168,6 +168,9 @@ a.more{
     padding: 7px 20px;
     display: inline-block;
     border-radius: 20px;
+    text-decoration: none;
+    transition: all 0.5s linear;
+
 }
 a:hover{
     color: #58c93a;
