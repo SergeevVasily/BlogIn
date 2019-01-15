@@ -225,3 +225,37 @@ a:hover.more{
     top: 12px;
 
 }
+.pager{
+    border-top: 1px solid #e1e0e0;
+    font-size: 1.125em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 30px;
+}
+
+.pager a{
+    color: #818181;
+    text-decoration: none;
+}
+
+.pager a:hover{
+    text-decoration: underline;
+}
+
+.previous-link{
+    float: left;
+}
+.next-link{
+    float: right;
+}
+
+footer{
+    background: #f8f8f8;
+    border: 1px solid #e1e0e0;
+    text-align: center;
+    font-size: 0.8125em;
+    padding: 50px 0;
+}
+    footer img{
+        margin-bottom: 20px;
+    }
